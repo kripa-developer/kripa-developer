@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Spring Security with JWT & OAuth2**.
 - 💼 I’m looking for opportunities as a **Java Developer**.
 - 🔧 My tech stack: **Java | Spring Boot | Hibernate | JPA | REST APIs | Angular | MySQL | Docker**.
-- 🎯 Exploring **Microservices, RESTful**.
+- 🎯 Exploring **Microservices, RESTful,SOAP API**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kripa245) | [Email](mailto:kripakrishnan201@gmail.com).
 - 😄 Pronouns: **She/Her**.
 - ⚡ Fun fact: **I love solving coding challenges and debugging complex issues! 🚀**
