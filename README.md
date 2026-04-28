@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kripa (@kripa-developer)
 - 👀 I’m interested in **coding, learning new technologies, and playing board games**.
-- 🌱 I’m currently learning **Spring Security with JWT & OAuth2**.
+- 🌱 I’m currently learning **Spring AI and AI with Springboot**.
 - 💼 I’m looking for opportunities as a **Java Developer**/ **Full Stack Developer**/ **Software Engineer** roles.
 - 🔧 My tech stack: **Java | Spring Boot | Hibernate | JPA | REST APIs | Angular | MySQL | Docker | Microservices| RESTful API | SOAP API**.
 - 🎯 Exploring **Kafka | event-driven microservices"**.
